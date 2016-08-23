@@ -1,0 +1,9 @@
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\bin\Debug\MyRPG.exe.config
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\obj\Debug\MyRPG.csprojResolveAssemblyReference.cache
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\obj\Debug\MyRPG.Form1.resources
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\obj\Debug\MyRPG.Properties.Resources.resources
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\obj\Debug\MyRPG.csproj.GenerateResource.Cache
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\bin\Debug\MyRPG.exe
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\bin\Debug\MyRPG.pdb
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\obj\Debug\MyRPG.exe
+c:\users\49899\documents\visual studio 2015\Projects\MyRPG\MyRPG\obj\Debug\MyRPG.pdb
